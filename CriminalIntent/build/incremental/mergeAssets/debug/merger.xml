@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/toddpickell/code/CriminalIntent/CriminalIntent/src/main/assets" />
+        <source path="/Users/toddpickell/code/crim_intent/CriminalIntent/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/toddpickell/code/CriminalIntent/CriminalIntent/src/debug/assets" />
+        <source path="/Users/toddpickell/code/crim_intent/CriminalIntent/src/debug/assets" />
     </dataSet>
 
 </merger>

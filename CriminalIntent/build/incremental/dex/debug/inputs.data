@@ -1,15 +1,15 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1373510476000 505 b97f496a92de7f69cca008a900c304590522169c /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$string.class
-1373510476000 842 5e85367ddd74fb12eecaf395e1533060444174f6 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/CrimeActivity.class
-1373510476000 437 e481c6d63437e4f72c4c9603e8fbdfe436666dda /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$layout.class
-1373510476000 464 1ce5172bb95c2956684fc4f54433fa51413c72cc /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$style.class
-1373510476000 422 ff0103fe3c743fdf9e5255f6d7d90d9d71bb9f07 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$menu.class
-1373510476000 426 842f19646da0335edc4546798dc3464cb4b6f32c /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$id.class
-1373510476000 494 74425f7b324351ce9deb210869860f4772722e90 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$dimen.class
-1373510476000 367 f93920277fe3ab5ca4d16695f57aad84e5c36594 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/BuildConfig.class
-1373510476000 787 a31b3ba7990956e4c76e872a0c1855b522dcd1d3 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R.class
-1373510476000 373 4bac5930f0967427f17c85bae087526af03e84b3 /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$attr.class
-1373510476000 440 dd3095e0fd0229704f637a25ce01085d7305859a /Users/toddpickell/code/CriminalIntent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$drawable.class
-1373510442000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/toddpickell/code/CriminalIntent/CriminalIntent/libs/android-support-v4.jar
+1373636704000 787 a31b3ba7990956e4c76e872a0c1855b522dcd1d3 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R.class
+1373636704000 505 b97f496a92de7f69cca008a900c304590522169c /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$string.class
+1373636704000 842 5e85367ddd74fb12eecaf395e1533060444174f6 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/CrimeActivity.class
+1373636704000 367 f93920277fe3ab5ca4d16695f57aad84e5c36594 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/BuildConfig.class
+1373636362000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/toddpickell/code/crim_intent/CriminalIntent/libs/android-support-v4.jar
+1373636704000 422 ff0103fe3c743fdf9e5255f6d7d90d9d71bb9f07 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$menu.class
+1373636704000 426 842f19646da0335edc4546798dc3464cb4b6f32c /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$id.class
+1373636704000 494 74425f7b324351ce9deb210869860f4772722e90 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$dimen.class
+1373636704000 440 dd3095e0fd0229704f637a25ce01085d7305859a /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$drawable.class
+1373636704000 437 e481c6d63437e4f72c4c9603e8fbdfe436666dda /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$layout.class
+1373636704000 464 1ce5172bb95c2956684fc4f54433fa51413c72cc /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$style.class
+1373636704000 373 4bac5930f0967427f17c85bae087526af03e84b3 /Users/toddpickell/code/crim_intent/CriminalIntent/build/classes/debug/me/toddpickell/criminalintent/R$attr.class
